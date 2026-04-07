@@ -15,4 +15,4 @@ It is designed for anyone who wants to strengthen their Python skills through ha
 ### How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Python-Fundamentals.git
+   git clone https://github.com/acodedataz/Python-Fundamentals.git
