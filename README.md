@@ -1,7 +1,5 @@
 # Python Fundamentals
 
-## English Version 🇬🇧
-
 This repository contains **48 Python practice files** covering all fundamental topics from A to Z.  
 It is designed for anyone who wants to strengthen their Python skills through hands-on practice.
 
