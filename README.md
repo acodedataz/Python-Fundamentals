@@ -9,6 +9,7 @@ It is designed for anyone who wants to strengthen their Python skills through ha
 - Functions: User-defined functions, parameters, return values
 - Data Structures: Lists, Tuples, Dictionaries, Sets
 - Small Projects: Mini games, utilities, and exercises
+- Python Object Oriented Programming.OOP
 
 ### How to Use
 1. Clone the repository:
